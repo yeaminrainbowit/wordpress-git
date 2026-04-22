@@ -7,6 +7,7 @@ const members = [
   "Aminul",
   "New Member",
   "yeamin khan",
+  "New Member"
 ];
 
 function renderMembers() {
