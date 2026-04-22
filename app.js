@@ -4,7 +4,10 @@ const members = [
   "Mehedi",
   "Hasibul",
   "Md Abdullah",
-  "Aminul"
+  "Aminul",
+  "New Member",
+  "yeamin khan",
+  "New Member"
 ];
 
 function renderMembers() {
